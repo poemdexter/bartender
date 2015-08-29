@@ -1,3 +1,6 @@
 .idea
 .gradle
 bartender.iml
+build
+gradle.properties
+application.yml

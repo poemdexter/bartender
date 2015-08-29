@@ -1,2 +1,5 @@
 # bartender
-AT&amp;T Spring Boot App
+
+`GET` - gets `Beer`
+
+    http://bartender.mybluemix.net/beer/{id}
